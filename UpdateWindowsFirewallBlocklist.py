@@ -82,3 +82,6 @@ def main():
     if counter > 0:
         executeNewRules(list_count, ip_row, list_of_ips)
 
+if __name__ == "__main__":
+    main()
+
